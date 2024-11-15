@@ -12,10 +12,10 @@
   "dependencies": {
     "cors": "^2.8.5",
     "multer": "^1.4.5-lts.1",
-    "express": "^4.18.1",          // Added Express
-    "mongoose": "^7.0.0",          // Added Mongoose
-    "dotenv": "^16.0.0",           // Added dotenv for environment variables
-    "jsonwebtoken": "^8.5.1",      // Added JSON Web Token
-    "body-parser": "^1.19.0"       // Optional (can be replaced by Express middleware)
+    "express": "^4.18.1",       
+    "mongoose": "^7.0.0",       
+    "dotenv": "^16.0.0",           
+    "jsonwebtoken": "^8.5.1",      
+    "body-parser": "^1.19.0"       
   }
 }
